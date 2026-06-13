@@ -27,7 +27,7 @@ This project explores the relationship between Spotify track popularity and vari
 
 ## Popularity Distribution
 
-![Popularity Distribution](visuals\disribution_plot.png)
+![Popularity Distribution](visuals/disribution_plot.png)
 
 ## Correlation Heatmap
 
